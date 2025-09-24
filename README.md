@@ -118,6 +118,36 @@ docker-compose up --build
 - **Custom APIs**: Flexible webhook-based integrations
 
 ---
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><strong>Login</strong></td>
+    <td align="center"><strong>Register</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/AaryanPuri/billsight-project/blob/main/screenshots/1.png" alt="Login Page" width="100%"></td>
+    <td><img src="https://github.com/AaryanPuri/billsight-project/blob/main/screenshots/2.png" alt="Register Page" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Dashboard</strong></td>
+    <td align="center"><strong>Receipt Management</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/AaryanPuri/billsight-project/blob/main/screenshots/3.png" alt="Dashboard View" width="100%"></td>
+    <td><img src="https://github.com/AaryanPuri/billsight-project/blob/main/screenshots/4.png" alt="Receipt Management Page" width="100%"></td>
+  </tr>
+   <tr>
+    <td align="center"><strong>Analytics</strong></td>
+    <td align="center"><strong>Export Data</strong></td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/AaryanPuri/billsight-project/blob/main/screenshots/5.png" alt="Analytics" width="100%"></td>
+    <td><img src="https://github.com/AaryanPuri/billsight-project/blob/main/screenshots/6.png" alt="Export Page" width="100%"></td>
+  </tr>
+</table>
+
+---
 
 ## 📚 **API Documentation**
 
