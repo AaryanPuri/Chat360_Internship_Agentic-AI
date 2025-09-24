@@ -174,27 +174,17 @@ This project follows professional development practices:
 
 ---
 
-## 💼 **Internship Learning Outcomes**
-
-Through this project at **Chat360**, I gained extensive experience in:
-
-- **🏗️ Enterprise Architecture**: Designing scalable backend systems
-- **🤖 AI Integration**: Working with OpenAI, LangChain, and vector databases
-- **📊 Data Processing**: Handling large-scale document indexing and retrieval
-- **🔗 API Development**: Building robust REST APIs with comprehensive documentation
-- **⚡ Async Programming**: Implementing efficient task queues and background processing
-- **🔒 Security**: Implementing authentication, authorization, and data protection
-- **🐳 DevOps**: Containerization, deployment, and monitoring strategies
-
----
-
 ## 📄 **License**
 
 This project was developed during my internship at Chat360.
 
 ---
 
-<h1 align="center"> 👤 Aaryan Puri</h1>
-[LinkedIn](https://www.linkedin.com/in/aaryan-puri-04923a228/?profileId=ACoAADj8zrkBa2y9Dzyvyl3sUsCqr-4P-RhcAgA) • [GitHub](https://github.com/AaryanPuri) • [Email](mailto:aaryanpuri75@gmail.com)
----
+<div align="center">
+
+# 👤 Aaryan Puri
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-puri-04923a228/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryanPuri) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryanpuri75@gmail.com)
+
+</div>
 
