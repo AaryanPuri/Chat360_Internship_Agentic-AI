@@ -1,11 +1,10 @@
-# Chat360 Internship - Agentic AI Backend
+<h1 align="center">Chat360- Agentic AI </h1>
 <div align="center">
 
 🤖 **Advanced Django-based agentic AI backend system with knowledge base management, multi-service integrations, and real-time processing capabilities**
 
 [![Django](https://img.shields.io/badge/Django-5.2-green.svg)](https://djangoproject.com)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-Chat360_Internship-orange.svg)]()
 
 </div>
 
@@ -52,63 +51,50 @@ This project was developed during my internship at **Chat360** as a comprehensiv
 ### **Installation**
 
 1. Clone the repository
+```bash
 git clone https://github.com/YOUR_USERNAME/Chat360_Internship_Agentic-AI.git
 cd Chat360_Internship_Agentic-AI
+cd backend
+```
 
 2. Create virtual environment
+```bash
 python -m venv venv
-source venv/bin/activate # On Windows: venv\Scripts\activate
+source venv/bin/activate
+On Windows: venv\Scripts\activate
+```
 
 3. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 4. Set up environment variables
+```bash
 cp .env.example .env
-
+```
 Edit .env with your actual credentials
+
 5. Database setup
+```bash
 python manage.py migrate
 python manage.py createsuperuser
+```
 
 6. Run the application
+```bash
 python manage.py runserver
+```
 
 7. Start Celery worker (separate terminal)
+```bash
 celery -A backend worker --loglevel=info
+```
 
-Run with Docker Compose (separate terminal)
+8. Run with Docker Compose (separate terminal)
+```bash
 docker-compose up --build
-
-text
-
----
-
-## 🔑 **Environment Configuration**
-
-Create a `.env` file in the root directory:
-
-Essential API Keys
-OPENAI_API_KEY=your_openai_api_key
-PINECONE_API_KEY=your_pinecone_api_key
-JINA_AI_API_KEY=your_jina_ai_key
-
-Database Configuration
-POSTGRES_DB=agentic_ai_db
-POSTGRES_USER=your_db_user
-POSTGRES_PASSWORD=your_secure_password
-
-AWS S3 Configuration
-AWS_ACCESS_KEY_ID=your_aws_key
-AWS_SECRET_ACCESS_KEY=your_aws_secret
-AWS_STORAGE_BUCKET_NAME=your_s3_bucket
-
-Django Configuration
-DJANGO_SECRET_KEY=your_django_secret_key
-DEBUG=True
-ALLOWED_HOSTS=localhost,127.0.0.1
-
-text
-
+```
 ---
 
 ## 🚀 **Core Features**
@@ -202,28 +188,13 @@ Through this project at **Chat360**, I gained extensive experience in:
 
 ---
 
-## 🤝 **Contributing**
-
-This project was developed as part of my internship at Chat360. While it's primarily for learning and portfolio purposes, feedback and suggestions are welcome!
-
----
-
 ## 📄 **License**
 
-This project was developed during my Chat360 internship program and serves as a learning portfolio piece.
+This project was developed during my internship at Chat360.
 
 ---
 
-## 📞 **Contact**
-
-**Developed by**: [Your Name]  
-**Company**: Chat360  
-**Program**: Software Development Internship  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Email**: [Your Email]
-
+<h1 align="center"> 👤 Aaryan Puri</h1>
+[LinkedIn](https://www.linkedin.com/in/aaryan-puri-04923a228/?profileId=ACoAADj8zrkBa2y9Dzyvyl3sUsCqr-4P-RhcAgA) • [GitHub](https://github.com/AaryanPuri) • [Email](mailto:aaryanpuri75@gmail.com)
 ---
 
-<div align="center">
-<b>⭐ If you found this project interesting, please consider giving it a star! ⭐</b>
-</div>
