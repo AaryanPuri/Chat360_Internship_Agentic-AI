@@ -122,24 +122,24 @@ docker-compose up --build
 
 <table>
   <tr>
-    <td align="center"><strong>Login</strong></td>
-    <td align="center"><strong>Register</strong></td>
+    <td align="center"><strong>Dashboard</strong></td>
+    <td align="center"><strong>Ask AI</strong></td>
   </tr>
   <tr>
     <td><img src="https://github.com/AaryanPuri/Chat360_Internship_Agentic-AI/blob/main/screenshots/1.png" alt="Dashboard" width="100%"></td>
     <td><img src="https://github.com/AaryanPuri/Chat360_Internship_Agentic-AI/blob/main/screenshots/2.png" alt="Ask AI" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Dashboard</strong></td>
-    <td align="center"><strong>Receipt Management</strong></td>
+    <td align="center"><strong>Knowledge Base</strong></td>
+    <td align="center"><strong>Abilities & Integrations</strong></td>
   </tr>
   <tr>
     <td><img src="https://github.com/AaryanPuri/Chat360_Internship_Agentic-AI/blob/main/screenshots/3.png" alt="Knowledge Base" width="100%"></td>
     <td><img src="https://github.com/AaryanPuri/Chat360_Internship_Agentic-AI/blob/main/screenshots/4.png" alt="Abilities & Integrations" width="100%"></td>
   </tr>
    <tr>
-    <td align="center"><strong>Analytics</strong></td>
-    <td align="center"><strong>Export Data</strong></td>
+    <td align="center"><strong>AI Assistants</strong></td>
+    <td align="center"><strong>Assets</strong></td>
   </tr>
    <tr>
     <td><img src="https://github.com/AaryanPuri/Chat360_Internship_Agentic-AI/blob/main/screenshots/5.png" alt="AI Assistants" width="100%"></td>
@@ -151,7 +151,7 @@ docker-compose up --build
 
 ## 📚 **API Documentation**
 
-Comprehensive API documentation is available in [API_DOCUMENTATION.md](API_DOCUMENTATION.md).
+Comprehensive API documentation is available in [API_DOCUMENTATION.md](https://github.com/AaryanPuri/Chat360_Internship_Agentic-AI/blob/main/backend/API_DOCUMENTATION.md).
 
 ### **Key Endpoints**
 
