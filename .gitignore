@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# Django
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+zoho.log
+*.env
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
+
+# SQLLite
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.sqlite3-journal
+
+# Frontend
+dist/
+node_modules
+*.txt
+migrations
+knowledge_files
+*.pdf
+
+/third_party_tasks

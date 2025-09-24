@@ -1,0 +1,11 @@
+logs
+logs/
+*.venv
+*.env
+log_zoho
+staticfiles
+staticfiles/
+migrations
+celery_queues.conf
+
+
